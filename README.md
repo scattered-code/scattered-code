@@ -1,8 +1,11 @@
 ### Hi there 👋 welcome to my playground!
 
 - 🔭 I’m currently working on a modern approach to the IAAA security architecture and a new type of commuinication protocol to enable self-optimizing M2M messaging
+
 - 🌱 I’m currently learning kubernetes and blockchain/DAG/Hashgraph-based distributed state machines and encryption optimizations around them
+
 - 💬 Ask me about OAuth2/OpenID Connect, SAML 2.0 and authentication/fingerprinting 😎
+
 - ⚡ Fun fact: it works on my computer
 
 
